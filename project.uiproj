@@ -1,0 +1,6 @@
+{
+  "Name": "PrestaShopAutomation",
+  "ProjectType": "Tests",
+  "Description": "Group 1 project",
+  "MainFile": "Main.xaml"
+}
